@@ -52,6 +52,20 @@ Lec no 10;-
    while loop
    nested loops
 
+   lec no:-
+   ------DSA--------
+   lists and comrehensions in python
+   tuples in python
+
+   lec no 16:-
+   functions 
+   variables length 
+   positioonal argumentts *
+   keyword arguments  **
+
+   noo 17
+   more and more examples functions
+
 
    
 
