@@ -69,6 +69,11 @@ Lec no 10;-
    file handling
    file paths
 
+   no :-
+   Exception Handling 
+   many typpes  like
+   exception,zerodivisionerror
+
 
    
 
