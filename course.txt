@@ -1,0 +1,60 @@
+Lec 1:-
+   introduction to the coourse
+   alla boout things revolve around python
+   LLM, NVIDIA, Generative AI etc
+
+lec 6;- 
+    syntax and sementacis of python
+    single line multiline
+    definition of syntax 
+    basic syntax
+    understanding of python
+    variables,if else, etc
+    comments
+lec 7:-
+variables
+declaring and assigining variables
+prinint variables
+Naming conventions
+------should be descriptive
+------starts with letter or _ contains letters,numbers,underscores
+-------case sensative
+
+----->variables are dynamically types means variabes types are defien at the run time
+----->typpes conversioons
+python allows the type of variables to change as the program executes
+
+to get input from user
+
+Lec 8;-
+Datatypes
+
+int,
+flooat
+string
+lists
+tuples
+sets
+dictioneries
+bool
+
+lec no 9;-
+   logical and conditional operators
+   and,or,nor,
+
+Lec no 10;-
+   conditional statments
+   -----assignment calcylator
+
+   lec no 11:-
+   loops
+   for loop
+   while loop
+   nested loops
+
+
+   
+
+
+
+    
