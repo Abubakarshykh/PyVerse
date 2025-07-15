@@ -1,0 +1,6 @@
+Helloo woorld
+ we have wroote something using file write
+So guys we have appended the formatioon
+First Line
+second Line
+Third Line

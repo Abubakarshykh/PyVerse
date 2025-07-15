@@ -65,6 +65,9 @@ Lec no 10;-
 
    noo 17
    more and more examples functions
+   lec no:- 
+   file handling
+   file paths
 
 
    
